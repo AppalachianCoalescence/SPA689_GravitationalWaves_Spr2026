@@ -14,5 +14,5 @@ Collection of notes and links to recordings for Robbie's gravitational waves cla
 | 5 | vacuum gravitational wave solution  | n/a  | [pdf](https://github.com/AppalachianCoalescence/SPA689_GravitationalWaves_Spr2026/blob/main/lecture%20notes%205.pdf)  |
 | 6 | solutions to the sourced wave equation | [zoom](https://uah-uasystem.zoom.us/rec/share/0YqOxI5JXI_CcbEdsEyL79DHyyZgNsSy05ClCblcDgqkfmAMck46C606KrOzeA.RrsY9UUXb6eE3Li7?startTime=1769701884000)  | [pdf](https://github.com/AppalachianCoalescence/SPA689_GravitationalWaves_Spr2026/blob/main/lecture%20notes%206.pdf)  |
 | 7 | units in GR, binary evolution under GWs | [zoom](https://uah-uasystem.zoom.us/rec/share/Mig3YJSpB51xygWFsPaL7j6ohM8Tx5DpgLf-34sbGTQ3__j7TMHwxglvCyOcJ4n-.iZJEJ-RZHjoVb-F_?startTime=1770133443000)  | [pdf](https://github.com/AppalachianCoalescence/SPA689_GravitationalWaves_Spr2026/blob/main/lecture%20notes%207.pdf)  |
-| 8 | binary spin and eccentricity | [zoom](#)  | [pdf](#)  |
+| 8 | binary radius and eccentricity under GWs | [zoom](https://uah-uasystem.zoom.us/rec/share/zgF8KNsbwi7K09IjP3BX1UZaWB4EeLDyxdZgOAsgmm9F0tOPHPPkCY1-LZbW0nqu.loEQUdfFrR_1URIS?startTime=1770306194000)  | [pdf](https://github.com/AppalachianCoalescence/SPA689_GravitationalWaves_Spr2026/blob/main/lecture%20notes%208.pdf)  |
 | 9 | gravitational wave detectors | [zoom](#)  | [pdf](#)  |
